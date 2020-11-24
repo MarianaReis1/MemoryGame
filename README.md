@@ -3,7 +3,8 @@
 This is a Web Application Game built with Vanilla Js and CSS. I Also used Illustrator to create the cards and images used in the game. 
 
 ## Motivation
-I decide to build a Memory Game to practice and I used a tutorial on FreeCodeCamp as reference. 
+I decide to build a Memory Game to practice JS and CSS. 
+And I used as reference a tutorial from FreeCodeCamp to make a better use of my time and improve the learning process.
 
 ## Resources
 
